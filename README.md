@@ -89,8 +89,8 @@
 
 ## Related Awesome Lists
 
-- [Awesome Transformers](https://github.com/awesomelistsio/transformers#external-resources)
-- [Awesome Diffusers](https://github.com/awesomelistsio/diffusers#external-resources)
+- [Awesome Transformers](https://github.com/awesomelistsio/transformers)
+- [Awesome Diffusers](https://github.com/awesomelistsio/diffusers)
 - [Awesome Prompt Engineering](https://github.com/awesomelistsio/awesome-prompt-engineering)
 - [Awesome Generative AI](https://github.com/awesomelistsio/awesome-generative-ai)
 - [Awesome LLMOps](https://github.com/awesomelistsio/awesome-llmops)
